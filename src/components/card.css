@@ -95,13 +95,13 @@
 
 .card-link {
   text-transform: uppercase;
-  color: hsl(280, 100%, 55%);
+  color: hsl(208, 100%, 55%);
   display: inline-block;
   padding: 0.8rem;
 }
 
 .card-link:hover {
-  background-color: hsla(280, 100%, 55%, 0.09);
+  background-color: hsla(208, 100%, 55%, 0.09);
 }
 
 .card-image {
