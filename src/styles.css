@@ -56,14 +56,13 @@ button {
 }
 
 main {
-  width: 90vw;
+  width: 95vw;
   margin: 0 auto;
-  max-width: 1024px;
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
   align-items: flex-start;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .card-container {
