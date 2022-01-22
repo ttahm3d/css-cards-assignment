@@ -1,0 +1,36 @@
+.heading-1 {
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+
+.heading-2 {
+  font-weight: 500;
+  font-size: 2.6rem;
+  color: hsla(0, 0%, 0%, 92%);
+}
+
+.heading-3 {
+  font-weight: 400;
+  font-size: 2.2rem;
+  color: hsla(0, 0%, 0%, 88%);
+}
+
+.heading-4 {
+  font-weight: 300;
+  font-size: 1.8rem;
+  color: hsla(0, 0%, 0%, 82%);
+}
+
+.text-normal {
+  font-weight: 500;
+}
+
+.text-grey-dark {
+  font-weight: 500;
+  color: hsla(0, 0%, 35%, 0.9);
+}
+
+.text-grey-light {
+  font-weight: 400;
+  color: hsla(0, 1%, 23%, 0.9);
+}

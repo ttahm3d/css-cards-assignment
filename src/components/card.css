@@ -1,0 +1,109 @@
+.card-text-container {
+  padding: 1.5rem;
+}
+
+.card-links-container {
+  padding: 0.5rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.6rem;
+  background-color: hsl(0, 0%, 95%);
+}
+
+.card-heading-image-container {
+  display: flex;
+}
+
+.flex-start {
+  justify-content: flex-start;
+}
+
+.flex-end {
+  justify-content: flex-end;
+}
+
+.card-header-container {
+  padding: 1.5rem 1.5rem 0.5rem;
+}
+
+.horizontal-image {
+  width: 11.9rem;
+}
+
+.horizontal-text {
+  padding: 1.5rem 1.5rem 0;
+}
+
+.horizontal-text p {
+  padding: 0;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+  border-radius: 0.4rem;
+  width: 35rem;
+}
+
+.card-overlay {
+  position: relative;
+}
+
+.card-overlay-text {
+  position: absolute;
+  bottom: 2rem;
+  left: 2rem;
+}
+
+.overlay-heading {
+  color: hsl(0, 0%, 99%);
+  font-weight: 600;
+}
+
+.overlay-sub-heading {
+  font-weight: 400;
+  color: hsl(0, 0%, 90%);
+}
+
+.icon {
+  padding: 2rem;
+  color: hsl(0, 0%, 42%);
+  cursor: pointer;
+}
+
+.icon:hover {
+  padding: 2rem;
+  background-color: hsl(0, 0%, 42%, 0.09);
+  border-radius: 50%;
+}
+
+.card-heading {
+  font-size: 2.2rem;
+}
+
+.card-sub-heading {
+  font-size: 1.6rem;
+}
+
+.card-description-text {
+  font-size: 1.2rem;
+  text-align: justify;
+}
+
+.card-link {
+  text-transform: uppercase;
+  color: hsl(280, 100%, 55%);
+  display: inline-block;
+  padding: 0.8rem;
+}
+
+.card-link:hover {
+  background-color: hsla(280, 100%, 55%, 0.09);
+}
+
+.card-image {
+  max-width: 100%;
+}
